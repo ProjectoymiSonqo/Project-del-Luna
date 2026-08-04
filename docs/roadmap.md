@@ -4,9 +4,13 @@
 
 
 [v] Architecture
+
 [v] Hardware Selection
+
 [v] STM32U575 Project
+
 [v] ST25DV Driver
+
 [ ] E-paper Driver
 
 ---
